@@ -5,7 +5,7 @@ import regions from './modules/regions'
 Vue.use(Vuex)
 
 export default new Vuex.Store({
-    modules: {
-        regions
-    }
+  modules: {
+    regions
+  }
 })
