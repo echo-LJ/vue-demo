@@ -26,10 +26,10 @@ const i18n = new VueI18n({
 // Vue.use(window.ConsoleMenu, {
 //   router: router,
 //   cookie: VueCookie,
-//   // menuUrl: èœå•è·¯å¾„å€¼ä¸ºundefinedæ—¶ç”¨èœå•é»˜è®¤çš„ï¼Œ
-//   // ä¸º""æ—¶ä¸åŠ è½½ï¼ˆå¯è‡ªå·±åœ¨windowä¸­å®šä¹‰èœå•ï¼Œå‚è§çº¿ä¸Šåœ°å€è¿”å›çš„å€¼ï¼‰ï¼Œ
-//   // ä¸ºä¸€ä¸ªurlæ—¶åŠ è½½è¿™ä¸ªURLä¸­çš„
-//   // é»˜è®¤çº¿ä¸Šåœ°å€ä¸º https://storage.jd.com/console/cms/consoleMenu å¯åšä¸ºè‡ªå®šä¹‰æ—¶çš„å‚ç…§
+//   // menuUrl: ²Ëµ¥Â·¾¶ÖµÎªundefinedÊ±ÓÃ²Ëµ¥Ä¬ÈÏµÄ£¬
+//   // Îª""Ê±²»¼ÓÔØ£¨¿É×Ô¼ºÔÚwindowÖĞ¶¨Òå²Ëµ¥£¬²Î¼ûÏßÉÏµØÖ··µ»ØµÄÖµ£©£¬
+//   // ÎªÒ»¸öurlÊ±¼ÓÔØÕâ¸öURLÖĞµÄ
+//   // Ä¬ÈÏÏßÉÏµØÖ·Îª https://storage.jd.com/console/cms/consoleMenu ¿É×öÎª×Ô¶¨ÒåÊ±µÄ²ÎÕÕ
 //   menuUrl: undefined
 // })
 /* eslint-disable no-new */
