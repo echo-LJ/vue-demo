@@ -4,7 +4,8 @@ import Api from '@/services/Api'
 export default {
   // 登陆 // 认证信息
   register (credentials) {
-    return Api().post('reguster', credentials)
+    console.log(7, credentials)
+    return Api().post('register', credentials)
   }
 }
 
