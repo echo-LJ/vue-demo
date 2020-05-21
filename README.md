@@ -2,7 +2,7 @@
 Vue.js & Express.js
 ### sever中命令行
 ```
-  npm install -f
+  npm init -f
   node ./node_modules/eslint/bin/eslint.js --init
   npm install --save express cors body-parser morgan
   npm install --save sequelize sqlite3@3.1.8
@@ -34,3 +34,17 @@ express中的中间件cors（）可以释放我们的API的访问权限，在命
 ```
 # my-project details
 * services中的baseURL为sever中的端口
+
+### Client - Terminal A
+```
+cd client
+npm install
+npm start
+```
+
+### Server - Terminal B
+```
+cd server
+npm install
+npm start
+```
